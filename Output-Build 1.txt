@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: PT Project, Configuration: Debug Win32 ------
+1>  Input.cpp
+1>  PT-Project.vcxproj -> E:\1\projects\paint again\.\Debug\PT Project.exe
+1>  PT-Project.vcxproj -> .\Debug/PT Project.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

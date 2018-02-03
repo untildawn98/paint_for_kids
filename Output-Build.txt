@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: PT Project, Configuration: Debug Win32 ------
+1>  Output.cpp
+1>e:\1\projects\1-final changes\gui\output.cpp(219): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+1>e:\1\projects\1-final changes\gui\output.cpp(231): warning C4101: 'style' : unreferenced local variable
+1>  PT-Project.vcxproj -> E:\1\projects\1-final changes\.\Debug\PT Project.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
